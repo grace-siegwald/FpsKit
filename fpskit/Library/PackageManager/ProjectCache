@@ -1,25 +1,25 @@
 m_ProjectFiles:
   m_ManifestFileStatus:
-    m_FilePath: C:/Users/kbsie/Documents/GitHub/FpsKit/fpskit/Packages/manifest.json
+    m_FilePath: C:/Users/Siegwald/Documents/GitHub/FpsKit/fpskit/Packages/manifest.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638941985028089349
-    m_Hash: 3931287583
+      ticks: 638936586457461789
+    m_Hash: 2700325180
   m_LockFileStatus:
-    m_FilePath: C:/Users/kbsie/Documents/GitHub/FpsKit/fpskit/Packages/packages-lock.json
+    m_FilePath: C:/Users/Siegwald/Documents/GitHub/FpsKit/fpskit/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638941985028089349
-    m_Hash: 3108295401
+      ticks: 638936586511393166
+    m_Hash: 912425326
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
   m_LocalFileStatus: []
-m_ProjectPath: C:/Users/kbsie/Documents/GitHub/FpsKit/fpskit/Packages
+m_ProjectPath: C:/Users/Siegwald/Documents/GitHub/FpsKit/fpskit/Packages
 m_EditorVersion: 6000.0.57f1 (b7b9860b7bbd)
 m_ResolvedPackages:
 - packageId: com.unity.2d.sprite@1.0.0
@@ -27,7 +27,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\kbsie\Documents\GitHub\FpsKit\fpskit\Library\PackageCache\com.unity.2d.sprite@897b7eecf04e
+  resolvedPath: C:\Users\Siegwald\Documents\GitHub\FpsKit\fpskit\Library\PackageCache\com.unity.2d.sprite@897b7eecf04e
   assetPath: Packages/com.unity.2d.sprite
   name: com.unity.2d.sprite
   displayName: 2D Sprite
@@ -106,7 +106,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\kbsie\Documents\GitHub\FpsKit\fpskit\Library\PackageCache\com.unity.2d.tilemap@43091c84adcf
+  resolvedPath: C:\Users\Siegwald\Documents\GitHub\FpsKit\fpskit\Library\PackageCache\com.unity.2d.tilemap@43091c84adcf
   assetPath: Packages/com.unity.2d.tilemap
   name: com.unity.2d.tilemap
   displayName: 2D Tilemap Editor
@@ -202,7 +202,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 4.4.2
   source: 1
-  resolvedPath: C:\Users\kbsie\Documents\GitHub\FpsKit\fpskit\Library\PackageCache\com.unity.ads@a7b997f68a1d
+  resolvedPath: C:\Users\Siegwald\Documents\GitHub\FpsKit\fpskit\Library\PackageCache\com.unity.ads@a7b997f68a1d
   assetPath: Packages/com.unity.ads
   name: com.unity.ads
   displayName: Advertisement Legacy
@@ -211,7 +211,7 @@ m_ResolvedPackages:
     email: 
     url: 
   category: 
-  type: 
+  type: asset
   description: "Connect your game to the Unity Ads Network for iOS and Android to
     quickly and effectively monetize your games.\n\nNOTE: Unity has joined forces
     with ironSource and recommends using Unity LevelPlay for ad mediation (instead
@@ -302,7 +302,7 @@ m_ResolvedPackages:
       violations: []
   hideInEditor: 1
   entitlements:
-    licensingModel: 0
+    licensingModel: 1
   isAssetStorePackage: 0
   datePublishedTicks: 638161229410000000
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.ads@4.4/manual/index.html
@@ -323,10 +323,9 @@ m_ResolvedPackages:
   git:
     hash: 
     revision: 
-  upmReserved: '{"gameService":{"groupIndex":4,"groupName":"Monetization","genericDashboardUrl":"https://unityads.unity3d.com/help/index","projectDashboardUrl":"https://dashboard.unity3d.com/organizations/{0}/projects/{1}/monetization/about","projectDashboardUrlType":"OrganizationKeyAndProjectGuid","configurePath":"Project/Services/Ads"},"supportedPlatforms":["Android","iOS"],"changelog":"##
-    **Unity**\n - Remove redirect pop-ups directing users to Unity Mediation.\n##
-    **Android**\n### **Bugfix**\n- Fixed a NullPointerException when Application
-    Context is null for cached directory file path."}'
+  upmReserved: '{"changelog":"## **Unity**\n - Remove redirect pop-ups directing
+    users to Unity Mediation.\n## **Android**\n### **Bugfix**\n- Fixed a NullPointerException
+    when Application Context is null for cached directory file path.","gameService":{"groupName":"Monetization","groupIndex":4,"configurePath":"Project/Services/Ads","genericDashboardUrl":"https://unityads.unity3d.com/help/index","projectDashboardUrl":"https://dashboard.unity3d.com/organizations/{0}/projects/{1}/monetization/about","projectDashboardUrlType":"OrganizationKeyAndProjectGuid"},"supportedPlatforms":["Android","iOS"]}'
   assetStore:
     productId: 
   fingerprint: a7b997f68a1d40387ca4d33fc75578709c140a37
@@ -345,7 +344,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.0.8
   source: 1
-  resolvedPath: C:\Users\kbsie\Documents\GitHub\FpsKit\fpskit\Library\PackageCache\com.unity.ai.navigation@eb5635ad590d
+  resolvedPath: C:\Users\Siegwald\Documents\GitHub\FpsKit\fpskit\Library\PackageCache\com.unity.ai.navigation@eb5635ad590d
   assetPath: Packages/com.unity.ai.navigation
   name: com.unity.ai.navigation
   displayName: AI Navigation
@@ -469,7 +468,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 3.8.1
   source: 1
-  resolvedPath: C:\Users\kbsie\Documents\GitHub\FpsKit\fpskit\Library\PackageCache\com.unity.analytics@6cc66d58ac08
+  resolvedPath: C:\Users\Siegwald\Documents\GitHub\FpsKit\fpskit\Library\PackageCache\com.unity.analytics@6cc66d58ac08
   assetPath: Packages/com.unity.analytics
   name: com.unity.analytics
   displayName: Analytics Library
@@ -540,15 +539,15 @@ m_ResolvedPackages:
     version: 1.0.0
   - name: com.unity.services.analytics
     version: 6.1.0
-  - name: com.unity.modules.jsonserialize
-    version: 1.0.0
   - name: com.unity.services.core
     version: 1.14.0
-  - name: com.unity.modules.unitywebrequest
+  - name: com.unity.modules.androidjni
     version: 1.0.0
   - name: com.unity.nuget.newtonsoft-json
     version: 3.2.1
-  - name: com.unity.modules.androidjni
+  - name: com.unity.modules.unitywebrequest
+    version: 1.0.0
+  - name: com.unity.modules.jsonserialize
     version: 1.0.0
   keywords:
   - analytics
@@ -606,7 +605,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.9.3
   source: 1
-  resolvedPath: C:\Users\kbsie\Documents\GitHub\FpsKit\fpskit\Library\PackageCache\com.unity.collab-proxy@ab839cc7d2ad
+  resolvedPath: C:\Users\Siegwald\Documents\GitHub\FpsKit\fpskit\Library\PackageCache\com.unity.collab-proxy@ab839cc7d2ad
   assetPath: Packages/com.unity.collab-proxy
   name: com.unity.collab-proxy
   displayName: Unity Version Control
@@ -704,9 +703,11 @@ m_ResolvedPackages:
     - 2.9.1
     - 2.9.2
     - 2.9.3
+    - 2.10.0
     compatible:
     - 2.9.2
     - 2.9.3
+    - 2.10.0
     recommended: 2.9.3
     deprecated: []
   dependencies: []
@@ -782,7 +783,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.0.5
   source: 2
-  resolvedPath: C:\Users\kbsie\Documents\GitHub\FpsKit\fpskit\Library\PackageCache\com.unity.ext.nunit@031a54704bff
+  resolvedPath: C:\Users\Siegwald\Documents\GitHub\FpsKit\fpskit\Library\PackageCache\com.unity.ext.nunit@031a54704bff
   assetPath: Packages/com.unity.ext.nunit
   name: com.unity.ext.nunit
   displayName: Custom NUnit
@@ -861,7 +862,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 3.0.36
   source: 1
-  resolvedPath: C:\Users\kbsie\Documents\GitHub\FpsKit\fpskit\Library\PackageCache\com.unity.ide.rider@4d374c7eb6db
+  resolvedPath: C:\Users\Siegwald\Documents\GitHub\FpsKit\fpskit\Library\PackageCache\com.unity.ide.rider@4d374c7eb6db
   assetPath: Packages/com.unity.ide.rider
   name: com.unity.ide.rider
   displayName: JetBrains Rider Editor
@@ -993,7 +994,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.0.23
   source: 1
-  resolvedPath: C:\Users\kbsie\Documents\GitHub\FpsKit\fpskit\Library\PackageCache\com.unity.ide.visualstudio@198cdf337d13
+  resolvedPath: C:\Users\Siegwald\Documents\GitHub\FpsKit\fpskit\Library\PackageCache\com.unity.ide.visualstudio@198cdf337d13
   assetPath: Packages/com.unity.ide.visualstudio
   name: com.unity.ide.visualstudio
   displayName: Visual Studio Editor
@@ -1034,9 +1035,11 @@ m_ResolvedPackages:
     - 2.0.21
     - 2.0.22
     - 2.0.23
+    - 2.0.25
     compatible:
     - 2.0.23
-    recommended: 2.0.23
+    - 2.0.25
+    recommended: 2.0.25
     deprecated: []
   dependencies:
   - name: com.unity.test-framework
@@ -1108,7 +1111,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.14.2
   source: 1
-  resolvedPath: C:\Users\kbsie\Documents\GitHub\FpsKit\fpskit\Library\PackageCache\com.unity.inputsystem@be6c4fd0abf5
+  resolvedPath: C:\Users\Siegwald\Documents\GitHub\FpsKit\fpskit\Library\PackageCache\com.unity.inputsystem@be6c4fd0abf5
   assetPath: Packages/com.unity.inputsystem
   name: com.unity.inputsystem
   displayName: Input System
@@ -1180,8 +1183,10 @@ m_ResolvedPackages:
     - 1.14.0
     - 1.14.1
     - 1.14.2
+    - 1.15.0
     compatible:
     - 1.14.2
+    - 1.15.0
     recommended: 1.14.2
     deprecated: []
   dependencies:
@@ -1263,7 +1268,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\kbsie\Documents\GitHub\FpsKit\fpskit\Library\PackageCache\com.unity.multiplayer.center@f3fb577b3546
+  resolvedPath: C:\Users\Siegwald\Documents\GitHub\FpsKit\fpskit\Library\PackageCache\com.unity.multiplayer.center@f3fb577b3546
   assetPath: Packages/com.unity.multiplayer.center
   name: com.unity.multiplayer.center
   displayName: Multiplayer Center
@@ -1356,7 +1361,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 3.2.1
   source: 1
-  resolvedPath: C:\Users\kbsie\Documents\GitHub\FpsKit\fpskit\Library\PackageCache\com.unity.nuget.newtonsoft-json@74deb55db2a0
+  resolvedPath: C:\Users\Siegwald\Documents\GitHub\FpsKit\fpskit\Library\PackageCache\com.unity.nuget.newtonsoft-json@74deb55db2a0
   assetPath: Packages/com.unity.nuget.newtonsoft-json
   name: com.unity.nuget.newtonsoft-json
   displayName: Newtonsoft Json
@@ -1415,7 +1420,7 @@ m_ResolvedPackages:
       violations: []
   hideInEditor: 1
   entitlements:
-    licensingModel: 0
+    licensingModel: 1
   isAssetStorePackage: 0
   datePublishedTicks: 638186318800000000
   documentationUrl: 
@@ -1456,7 +1461,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 3.5.0
   source: 1
-  resolvedPath: C:\Users\kbsie\Documents\GitHub\FpsKit\fpskit\Library\PackageCache\com.unity.postprocessing@94edadb6c5ab
+  resolvedPath: C:\Users\Siegwald\Documents\GitHub\FpsKit\fpskit\Library\PackageCache\com.unity.postprocessing@94edadb6c5ab
   assetPath: Packages/com.unity.postprocessing
   name: com.unity.postprocessing
   displayName: Post Processing
@@ -1537,7 +1542,7 @@ m_ResolvedPackages:
       violations: []
   hideInEditor: 1
   entitlements:
-    licensingModel: 0
+    licensingModel: 1
   isAssetStorePackage: 0
   datePublishedTicks: 638862836097160000
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.postprocessing@3.5/manual/index.html
@@ -1580,7 +1585,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 4.12.2
   source: 1
-  resolvedPath: C:\Users\kbsie\Documents\GitHub\FpsKit\fpskit\Library\PackageCache\com.unity.purchasing@649c6c7b3b1b
+  resolvedPath: C:\Users\Siegwald\Documents\GitHub\FpsKit\fpskit\Library\PackageCache\com.unity.purchasing@649c6c7b3b1b
   assetPath: Packages/com.unity.purchasing
   name: com.unity.purchasing
   displayName: In App Purchasing
@@ -1589,7 +1594,7 @@ m_ResolvedPackages:
     email: 
     url: 
   category: 
-  type: 
+  type: assets
   description: "IMPORTANT UPGRADE NOTES:\n\nIf updating from Unity IAP (com.unity.purchasing
     + the Asset Store plugin) versions 2.x to version 3.x, complete the following
     actions in order to resolve compilation errors:\n 1. Move IAPProductCatalog.json
@@ -1680,6 +1685,7 @@ m_ResolvedPackages:
     - 4.12.1
     - 4.12.2
     - 4.13.0
+    - 4.13.1
     - 5.0.0-pre.1
     - 5.0.0-pre.3
     - 5.0.0-pre.4
@@ -1689,9 +1695,11 @@ m_ResolvedPackages:
     - 5.0.0-pre.8
     - 5.0.0
     - 5.0.1
+    - 5.0.2
     compatible:
     - 4.12.2
     - 4.13.0
+    - 4.13.1
     - 5.0.0-pre.1
     - 5.0.0-pre.3
     - 5.0.0-pre.4
@@ -1701,19 +1709,20 @@ m_ResolvedPackages:
     - 5.0.0-pre.8
     - 5.0.0
     - 5.0.1
+    - 5.0.2
     recommended: 4.12.2
     deprecated: []
   dependencies:
   - name: com.unity.ugui
     version: 1.0.0
-  - name: com.unity.modules.unitywebrequest
+  - name: com.unity.services.core
+    version: 1.12.5
+  - name: com.unity.modules.androidjni
     version: 1.0.0
   - name: com.unity.modules.jsonserialize
     version: 1.0.0
-  - name: com.unity.modules.androidjni
+  - name: com.unity.modules.unitywebrequest
     version: 1.0.0
-  - name: com.unity.services.core
-    version: 1.12.5
   resolvedDependencies:
   - name: com.unity.ugui
     version: 2.0.0
@@ -1721,16 +1730,16 @@ m_ResolvedPackages:
     version: 1.0.0
   - name: com.unity.modules.imgui
     version: 1.0.0
+  - name: com.unity.services.core
+    version: 1.14.0
+  - name: com.unity.modules.androidjni
+    version: 1.0.0
+  - name: com.unity.nuget.newtonsoft-json
+    version: 3.2.1
   - name: com.unity.modules.unitywebrequest
     version: 1.0.0
   - name: com.unity.modules.jsonserialize
     version: 1.0.0
-  - name: com.unity.modules.androidjni
-    version: 1.0.0
-  - name: com.unity.services.core
-    version: 1.14.0
-  - name: com.unity.nuget.newtonsoft-json
-    version: 3.2.1
   keywords:
   - purchasing
   - iap
@@ -1748,7 +1757,7 @@ m_ResolvedPackages:
       violations: []
   hideInEditor: 0
   entitlements:
-    licensingModel: 0
+    licensingModel: 1
   isAssetStorePackage: 0
   datePublishedTicks: 638568999980000000
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.purchasing@4.12/manual/index.html
@@ -1769,10 +1778,9 @@ m_ResolvedPackages:
   git:
     hash: 
     revision: 
-  upmReserved: '{"gameService":{"groupIndex":4,"groupName":"Monetize","configurePath":"Project/Services/In-App
-    Purchasing","genericDashboardUrl":"https://dashboard.unity3d.com/","projectDashboardUrl":"https://dashboard.unity3d.com/organizations/{0}/projects/{1}/analytics/v2/dashboards/revenue","projectDashboardUrlType":"OrganizationKeyAndProjectGuid"},"supportedPlatforms":["Android","iOS"],"changelog":"###
-    Fixed\n- GooglePlay - Fixed `Product.receipt`''s `price_amount_micros` returning
-    a string instead of a long."}'
+  upmReserved: '{"changelog":"### Fixed\n- GooglePlay - Fixed `Product.receipt`''s
+    `price_amount_micros` returning a string instead of a long.","gameService":{"groupName":"Monetize","groupIndex":4,"configurePath":"Project/Services/In-App
+    Purchasing","genericDashboardUrl":"https://dashboard.unity3d.com/","projectDashboardUrl":"https://dashboard.unity3d.com/organizations/{0}/projects/{1}/analytics/v2/dashboards/revenue","projectDashboardUrlType":"OrganizationKeyAndProjectGuid"},"supportedPlatforms":["Android","iOS"]}'
   assetStore:
     productId: 
   fingerprint: 649c6c7b3b1b6277839041f4987c0a1e66176678
@@ -1791,7 +1799,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 17.0.4
   source: 2
-  resolvedPath: C:\Users\kbsie\Documents\GitHub\FpsKit\fpskit\Library\PackageCache\com.unity.render-pipelines.universal@ba18377e2205
+  resolvedPath: C:\Users\Siegwald\Documents\GitHub\FpsKit\fpskit\Library\PackageCache\com.unity.render-pipelines.universal@ba18377e2205
   assetPath: Packages/com.unity.render-pipelines.universal
   name: com.unity.render-pipelines.universal
   displayName: Universal Render Pipeline
@@ -1917,7 +1925,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 6.1.0
   source: 1
-  resolvedPath: C:\Users\kbsie\Documents\GitHub\FpsKit\fpskit\Library\PackageCache\com.unity.services.analytics@10a9ca5d5622
+  resolvedPath: C:\Users\Siegwald\Documents\GitHub\FpsKit\fpskit\Library\PackageCache\com.unity.services.analytics@10a9ca5d5622
   assetPath: Packages/com.unity.services.analytics
   name: com.unity.services.analytics
   displayName: Analytics
@@ -1973,10 +1981,10 @@ m_ResolvedPackages:
   dependencies:
   - name: com.unity.ugui
     version: 1.0.0
-  - name: com.unity.modules.jsonserialize
-    version: 1.0.0
   - name: com.unity.services.core
     version: 1.12.4
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
   resolvedDependencies:
   - name: com.unity.ugui
     version: 2.0.0
@@ -1984,15 +1992,15 @@ m_ResolvedPackages:
     version: 1.0.0
   - name: com.unity.modules.imgui
     version: 1.0.0
-  - name: com.unity.modules.jsonserialize
-    version: 1.0.0
   - name: com.unity.services.core
     version: 1.14.0
-  - name: com.unity.modules.unitywebrequest
+  - name: com.unity.modules.androidjni
     version: 1.0.0
   - name: com.unity.nuget.newtonsoft-json
     version: 3.2.1
-  - name: com.unity.modules.androidjni
+  - name: com.unity.modules.unitywebrequest
+    version: 1.0.0
+  - name: com.unity.modules.jsonserialize
     version: 1.0.0
   keywords: []
   registry:
@@ -2008,7 +2016,7 @@ m_ResolvedPackages:
       violations: []
   hideInEditor: 1
   entitlements:
-    licensingModel: 0
+    licensingModel: 1
   isAssetStorePackage: 0
   datePublishedTicks: 638865241437490000
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.services.analytics@6.1/manual/index.html
@@ -2029,25 +2037,23 @@ m_ResolvedPackages:
   git:
     hash: 
     revision: 
-  upmReserved: '{"gameService":{"genericDashboardUrl":"https://cloud.unity.com/analytics","projectDashboardUrl":"https://cloud.unity.com/home/organizations/{0}/projects/{1}/environments/default/analytics/v2/about","projectDashboardUrlType":"OrganizationKeyAndProjectGuid","configurePath":"Project/Services/Analytics
-    - Gaming Services"},"supportedPlatforms":["Android","iOS","Linux","Mac","PC","Windows
-    8.1 Universal","Windows 10 Universal","WebGL"],"changelog":"### Added\n\n* Support
-    for the Developer Data framework in Unity 6.2 and above\n  * This supersedes
-    the StartDataCollection and StopDataCollection methods, which are deprecated
-    in Unity 6.2 and above (they are not deprecated in earlier editor versions that
-    do not have the new EndUserConsent APIs)\n  * In order to start and stop data
-    collection, you must now use EndUserConsent.SetConsentState(...) to grant or
-    deny consent for AnalyticsIntent\n  * In order to request data deletion, you
-    must still use the SDK''s RequestDataDeletion method, but you must first explicitly
-    deny consent using the EndUserConsent API\n  * If consent has already been granted,
-    data collection will start automatically during UnityServices.InitializeAsync().
+  upmReserved: '{"changelog":"### Added\n\n* Support for the Developer Data framework
+    in Unity 6.2 and above\n  * This supersedes the StartDataCollection and StopDataCollection
+    methods, which are deprecated in Unity 6.2 and above (they are not deprecated
+    in earlier editor versions that do not have the new EndUserConsent APIs)\n  *
+    In order to start and stop data collection, you must now use EndUserConsent.SetConsentState(...)
+    to grant or deny consent for AnalyticsIntent\n  * In order to request data deletion,
+    you must still use the SDK''s RequestDataDeletion method, but you must first
+    explicitly deny consent using the EndUserConsent API\n  * If consent has already
+    been granted, data collection will start automatically during UnityServices.InitializeAsync().
     Otherwise, data collection will start when consent is granted\n  * When you start
     using the EndUserConsent API, the SDK will throw exceptions if you attempt to
     use methods from the original workflow. The two approaches cannot be mixed\n 
     * Please see the migration guide for more information: https://docs.unity.com/ugs/en-us/manual/analytics/manual/sdk61-migration-guide\n\n###
     Fixed\n\n* Updated the Debug Panel to use a new UIToolkit method in Unity 6.2
     and above to prevent a deprecation warning\n* The two acquisitionSource event
-    buttons in the Standard Events sample now call the correct methods"}'
+    buttons in the Standard Events sample now call the correct methods","gameService":{"configurePath":"Project/Services/Analytics
+    - Gaming Services","genericDashboardUrl":"https://cloud.unity.com/analytics","projectDashboardUrl":"https://cloud.unity.com/home/organizations/{0}/projects/{1}/environments/default/analytics/v2/about","projectDashboardUrlType":"OrganizationKeyAndProjectGuid"}}'
   assetStore:
     productId: 
   fingerprint: 10a9ca5d56226d26b71614c3ee36a91aaa253b96
@@ -2066,7 +2072,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.14.0
   source: 1
-  resolvedPath: C:\Users\kbsie\Documents\GitHub\FpsKit\fpskit\Library\PackageCache\com.unity.services.core@9e81a5e38245
+  resolvedPath: C:\Users\Siegwald\Documents\GitHub\FpsKit\fpskit\Library\PackageCache\com.unity.services.core@9e81a5e38245
   assetPath: Packages/com.unity.services.core
   name: com.unity.services.core
   displayName: Services Core
@@ -2124,18 +2130,18 @@ m_ResolvedPackages:
     recommended: 1.14.0
     deprecated: []
   dependencies:
-  - name: com.unity.modules.unitywebrequest
+  - name: com.unity.modules.androidjni
     version: 1.0.0
   - name: com.unity.nuget.newtonsoft-json
     version: 3.2.1
-  - name: com.unity.modules.androidjni
+  - name: com.unity.modules.unitywebrequest
     version: 1.0.0
   resolvedDependencies:
-  - name: com.unity.modules.unitywebrequest
+  - name: com.unity.modules.androidjni
     version: 1.0.0
   - name: com.unity.nuget.newtonsoft-json
     version: 3.2.1
-  - name: com.unity.modules.androidjni
+  - name: com.unity.modules.unitywebrequest
     version: 1.0.0
   keywords: []
   registry:
@@ -2151,7 +2157,7 @@ m_ResolvedPackages:
       violations: []
   hideInEditor: 1
   entitlements:
-    licensingModel: 0
+    licensingModel: 1
   isAssetStorePackage: 0
   datePublishedTicks: 638684041320270000
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.services.core@1.14/manual/index.html
@@ -2197,7 +2203,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.5.1
   source: 2
-  resolvedPath: C:\Users\kbsie\Documents\GitHub\FpsKit\fpskit\Library\PackageCache\com.unity.test-framework@16d3eb9e8c28
+  resolvedPath: C:\Users\Siegwald\Documents\GitHub\FpsKit\fpskit\Library\PackageCache\com.unity.test-framework@16d3eb9e8c28
   assetPath: Packages/com.unity.test-framework
   name: com.unity.test-framework
   displayName: Test Framework
@@ -2286,7 +2292,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.8.9
   source: 1
-  resolvedPath: C:\Users\kbsie\Documents\GitHub\FpsKit\fpskit\Library\PackageCache\com.unity.timeline@6b9e48457ddb
+  resolvedPath: C:\Users\Siegwald\Documents\GitHub\FpsKit\fpskit\Library\PackageCache\com.unity.timeline@6b9e48457ddb
   assetPath: Packages/com.unity.timeline
   name: com.unity.timeline
   displayName: Timeline
@@ -2483,7 +2489,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.0.0
   source: 2
-  resolvedPath: C:\Users\kbsie\Documents\GitHub\FpsKit\fpskit\Library\PackageCache\com.unity.ugui@58f0e62c6dfa
+  resolvedPath: C:\Users\Siegwald\Documents\GitHub\FpsKit\fpskit\Library\PackageCache\com.unity.ugui@58f0e62c6dfa
   assetPath: Packages/com.unity.ugui
   name: com.unity.ugui
   displayName: Unity UI
@@ -2578,7 +2584,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.9.7
   source: 1
-  resolvedPath: C:\Users\kbsie\Documents\GitHub\FpsKit\fpskit\Library\PackageCache\com.unity.visualscripting@6279e2b7c485
+  resolvedPath: C:\Users\Siegwald\Documents\GitHub\FpsKit\fpskit\Library\PackageCache\com.unity.visualscripting@6279e2b7c485
   assetPath: Packages/com.unity.visualscripting
   name: com.unity.visualscripting
   displayName: Visual Scripting
@@ -2710,7 +2716,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.1.12
   source: 1
-  resolvedPath: C:\Users\kbsie\Documents\GitHub\FpsKit\fpskit\Library\PackageCache\com.unity.xr.legacyinputhelpers@b7579e86f3b4
+  resolvedPath: C:\Users\Siegwald\Documents\GitHub\FpsKit\fpskit\Library\PackageCache\com.unity.xr.legacyinputhelpers@b7579e86f3b4
   assetPath: Packages/com.unity.xr.legacyinputhelpers
   name: com.unity.xr.legacyinputhelpers
   displayName: XR Legacy Input Helpers
@@ -2795,7 +2801,7 @@ m_ResolvedPackages:
       violations: []
   hideInEditor: 1
   entitlements:
-    licensingModel: 0
+    licensingModel: 1
   isAssetStorePackage: 0
   datePublishedTicks: 638738251595540000
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.xr.legacyinputhelpers@2.1/manual/index.html
@@ -5564,7 +5570,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 17.0.4
   source: 2
-  resolvedPath: C:\Users\kbsie\Documents\GitHub\FpsKit\fpskit\Library\PackageCache\com.unity.render-pipelines.core@d55f35a46257
+  resolvedPath: C:\Users\Siegwald\Documents\GitHub\FpsKit\fpskit\Library\PackageCache\com.unity.render-pipelines.core@d55f35a46257
   assetPath: Packages/com.unity.render-pipelines.core
   name: com.unity.render-pipelines.core
   displayName: Scriptable Render Pipeline Core
@@ -5689,7 +5695,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 17.0.4
   source: 2
-  resolvedPath: C:\Users\kbsie\Documents\GitHub\FpsKit\fpskit\Library\PackageCache\com.unity.shadergraph@bbc2145cfdb2
+  resolvedPath: C:\Users\Siegwald\Documents\GitHub\FpsKit\fpskit\Library\PackageCache\com.unity.shadergraph@bbc2145cfdb2
   assetPath: Packages/com.unity.shadergraph
   name: com.unity.shadergraph
   displayName: Shader Graph
@@ -5804,7 +5810,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 17.0.3
   source: 2
-  resolvedPath: C:\Users\kbsie\Documents\GitHub\FpsKit\fpskit\Library\PackageCache\com.unity.render-pipelines.universal-config@dd206bf35d04
+  resolvedPath: C:\Users\Siegwald\Documents\GitHub\FpsKit\fpskit\Library\PackageCache\com.unity.render-pipelines.universal-config@dd206bf35d04
   assetPath: Packages/com.unity.render-pipelines.universal-config
   name: com.unity.render-pipelines.universal-config
   displayName: Universal Render Pipeline Config
@@ -5911,7 +5917,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 4.9.3
   source: 1
-  resolvedPath: C:\Users\kbsie\Documents\GitHub\FpsKit\fpskit\Library\PackageCache\com.unity.searcher@1e17ce91558d
+  resolvedPath: C:\Users\Siegwald\Documents\GitHub\FpsKit\fpskit\Library\PackageCache\com.unity.searcher@1e17ce91558d
   assetPath: Packages/com.unity.searcher
   name: com.unity.searcher
   displayName: Searcher
@@ -6007,7 +6013,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.8.24
   source: 1
-  resolvedPath: C:\Users\kbsie\Documents\GitHub\FpsKit\fpskit\Library\PackageCache\com.unity.burst@f7a407abf4d5
+  resolvedPath: C:\Users\Siegwald\Documents\GitHub\FpsKit\fpskit\Library\PackageCache\com.unity.burst@f7a407abf4d5
   assetPath: Packages/com.unity.burst
   name: com.unity.burst
   displayName: Burst
@@ -6241,7 +6247,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.3.2
   source: 1
-  resolvedPath: C:\Users\kbsie\Documents\GitHub\FpsKit\fpskit\Library\PackageCache\com.unity.mathematics@8017b507cc74
+  resolvedPath: C:\Users\Siegwald\Documents\GitHub\FpsKit\fpskit\Library\PackageCache\com.unity.mathematics@8017b507cc74
   assetPath: Packages/com.unity.mathematics
   name: com.unity.mathematics
   displayName: Mathematics
@@ -6275,9 +6281,11 @@ m_ResolvedPackages:
     - 1.2.6
     - 1.3.1
     - 1.3.2
+    - 1.3.3
     compatible:
     - 1.3.2
-    recommended: 1.3.2
+    - 1.3.3
+    recommended: 1.3.3
     deprecated: []
   dependencies: []
   resolvedDependencies: []
@@ -6339,7 +6347,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 2.5.1
   source: 1
-  resolvedPath: C:\Users\kbsie\Documents\GitHub\FpsKit\fpskit\Library\PackageCache\com.unity.collections@56bff8827a7e
+  resolvedPath: C:\Users\Siegwald\Documents\GitHub\FpsKit\fpskit\Library\PackageCache\com.unity.collections@56bff8827a7e
   assetPath: Packages/com.unity.collections
   name: com.unity.collections
   displayName: Collections
@@ -6431,6 +6439,7 @@ m_ResolvedPackages:
     - 2.6.0-exp.2
     - 2.6.0-pre.3
     - 2.6.0-pre.4
+    - 2.6.2
     compatible:
     - 2.5.1
     - 2.5.2
@@ -6439,6 +6448,7 @@ m_ResolvedPackages:
     - 2.6.0-exp.2
     - 2.6.0-pre.3
     - 2.6.0-pre.4
+    - 2.6.2
     recommended: 2.5.7
     deprecated: []
   dependencies:
@@ -6527,7 +6537,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.0.1
   source: 2
-  resolvedPath: C:\Users\kbsie\Documents\GitHub\FpsKit\fpskit\Library\PackageCache\com.unity.rendering.light-transport@9bd588f963c0
+  resolvedPath: C:\Users\Siegwald\Documents\GitHub\FpsKit\fpskit\Library\PackageCache\com.unity.rendering.light-transport@9bd588f963c0
   assetPath: Packages/com.unity.rendering.light-transport
   name: com.unity.rendering.light-transport
   displayName: Unity Light Transport Library
@@ -6632,7 +6642,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.11.4
   source: 1
-  resolvedPath: C:\Users\kbsie\Documents\GitHub\FpsKit\fpskit\Library\PackageCache\com.unity.nuget.mono-cecil@d6f9955a5d5f
+  resolvedPath: C:\Users\Siegwald\Documents\GitHub\FpsKit\fpskit\Library\PackageCache\com.unity.nuget.mono-cecil@d6f9955a5d5f
   assetPath: Packages/com.unity.nuget.mono-cecil
   name: com.unity.nuget.mono-cecil
   displayName: Mono Cecil
@@ -6662,10 +6672,12 @@ m_ResolvedPackages:
     - 1.10.2
     - 1.11.4
     - 1.11.5
+    - 1.11.6
     compatible:
     - 1.11.4
     - 1.11.5
-    recommended: 1.11.5
+    - 1.11.6
+    recommended: 1.11.6
     deprecated: []
   dependencies: []
   resolvedDependencies: []
@@ -6723,7 +6735,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 3.1.0
   source: 1
-  resolvedPath: C:\Users\kbsie\Documents\GitHub\FpsKit\fpskit\Library\PackageCache\com.unity.test-framework.performance@92d1d09a72ed
+  resolvedPath: C:\Users\Siegwald\Documents\GitHub\FpsKit\fpskit\Library\PackageCache\com.unity.test-framework.performance@92d1d09a72ed
   assetPath: Packages/com.unity.test-framework.performance
   name: com.unity.test-framework.performance
   displayName: Performance testing API
